@@ -10,3 +10,5 @@ Analytics - based on the analysis, predicting future behaviour.
 
 #### Definitions
 _Business Intelligence (BI)_: process of analysing and reporting historical business data
+
+#### Infographic
