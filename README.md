@@ -12,3 +12,4 @@ Analytics - based on the analysis, predicting future behaviour.
 _Business Intelligence (BI)_: process of analysing and reporting historical business data
 
 #### Infographic
+![005 365-DataScience](https://github.com/NiravJoshi33/complete_data_science_bootcamp/assets/33543795/a231b319-8136-4542-92db-fc13aaf427fb)
